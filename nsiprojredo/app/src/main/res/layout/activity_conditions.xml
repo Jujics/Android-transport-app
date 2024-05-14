@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Credit"
+    android:background="@color/topbar"
+    >
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="55dp"
+        android:layout_height="76dp"
+        android:background="@color/topbar"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.044"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.009"
+        app:srcCompat="@drawable/aled" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="386dp"
+        android:layout_height="460dp"
+        android:text="En acceptant les conditions d’utilisation, vous acceptez que :\n
+-vos données soient vendues sur Ebay\n
+-le gouvernement communiste chinois utilise vos données.\n
+-nous utilisons vos données pour nous faire passer pour vous sur les réseaux sociaux.\n
+-vous serez sacrifié en premier quand la fin du monde adviendra.\n
+-vous serez jugé coupable pour homicide volontaire de pigeons mutants.\n
+-vos données seront utilisées pour vous envoyer des pubs personnalisées.\n
+-la police vous cambriole.\n
+-notre application est parfaite\n
+"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.333"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.343" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:text="Accepter les conditions"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.758" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nsiprojredo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/new_piskel__3_"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/new_piskel__3_"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Nsiprojredo">
+        <activity android:name=".itinaraire"/>
+        <activity android:name=".conditions" />
+        <activity android:name=".Credit" />
+        <activity android:name=".Tramchateau" />
+        <activity android:name=".tramegarles" />
+        <activity android:name=".tramtrou" />
+        <activity android:name=".tgv" />
+        <activity android:name=".ter2" />
+        <activity android:name=".ter1" />
+        <activity android:name=".Ligneo" />
+        <activity android:name=".lignet" />
+        <activity android:name=".lignep" />
+        <activity android:name=".Lignev" />
+        <activity android:name=".Lignee" />
+        <activity android:name=".Ligned" />
+        <activity android:name=".LigneC" />
+        <activity android:name=".ligneb" />
+        <activity android:name=".LigneA" />
+        <activity android:name=".settings" />
+        <activity android:name=".map" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data android:name="DOMAIN_PACKAGE_NAME" android:value="MODELS PACKAGE NAME"/>
+    </application>
+
+</manifest>

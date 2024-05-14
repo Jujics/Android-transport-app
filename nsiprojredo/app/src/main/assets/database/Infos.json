@@ -1,0 +1,274 @@
+[
+    {
+        "Code": "1",
+        "Nom": "Theatre"
+    },
+    {
+        "Code": "2",
+        "Nom": "Blanqueer"
+    },
+    {
+        "Code": "5",
+        "Nom": "Dessante givrée"
+    },
+    {
+        "Code": "4",
+        "Nom": "DTC"
+    },
+    {
+        "Code": "3",
+        "Nom": "Coeur"
+    },
+    {
+        "Code": "6",
+        "Nom": "Château"
+    },
+    {
+        "Code": "7",
+        "Nom": "Caverne de Satan"
+    },
+    {
+        "Code": "8",
+        "Nom": "Avenue des drapeaux"
+    },
+    {
+        "Code": "9",
+        "Nom": "Port"
+    },
+    {
+        "Code": "18",
+        "Nom": "Egarlest"
+    },
+    {
+        "Code": "17",
+        "Nom": "Sand City"
+    },
+    {
+        "Code": "16",
+        "Nom": "Polnareffland"
+    },
+    {
+        "Code": "14",
+        "Nom": "Phare"
+    },
+    {
+        "Code": "10",
+        "Nom": "Musée"
+    },
+    {
+        "Code": "11",
+        "Nom": "Licorne"
+    },
+    {
+        "Code": "12",
+        "Nom": "Forêt"
+    },
+    {
+        "Code": "13",
+        "Nom": "Trou"
+    },
+    {
+        "Code": "22",
+        "Nom": "Snowden"
+    },
+    {
+        "Code": "21",
+        "Nom": "Acerterdam"
+    },
+    {
+        "Code": "20",
+        "Nom": "Eaudonne"
+    },
+    {
+        "Code": "19",
+        "Nom": "Jardin des plantes"
+    },
+    {
+        "Code": "26",
+        "Nom": "Moche Room"
+    },
+    {
+        "Code": "27",
+        "Nom": "Chez Syd"
+    },
+    {
+        "Code": "29",
+        "Nom": "Pyramide"
+    },
+    {
+        "Code": "30",
+        "Nom": "Jump Arc-en-ciel"
+    },
+    {
+        "Code": "28",
+        "Nom": "Univercitée"
+    },
+    {
+        "Code": "25",
+        "Nom": "Bidonville"
+    },
+    {
+        "Code": "24",
+        "Nom": "Horny Jail"
+    },
+    {
+        "Code": "23",
+        "Nom": "Parc National de la Branche"
+    },
+    {
+        "Code": "31",
+        "Nom": "Préfecture"
+    },
+    {
+        "Code": "32",
+        "Nom": "Bry gare TGV"
+    },
+    {
+        "Code": "33",
+        "Nom": "Marché"
+    },
+    {
+        "Code": "34",
+        "Nom": "VTF sur Seine"
+    },
+    {
+        "Code": "35",
+        "Nom": "Val de ta G"
+    },
+    {
+        "Code": "36",
+        "Nom": "Marche"
+    },
+    {
+        "Code": "37",
+        "Nom": "Ecole primaire"
+    },
+    {
+        "Code": "38",
+        "Nom": "Hospital"
+    },
+    {
+        "Code": "100",
+        "Nom": "Trou 55000"
+    },
+    {
+        "Code": "39",
+        "Nom": "Haut du trou"
+    },
+    {
+        "Code": "40",
+        "Nom": "Canal"
+    },
+    {
+        "Code": "41",
+        "Nom": "Manoir"
+    },
+    {
+        "Code": "42",
+        "Nom": "Grand rue"
+    },
+    {
+        "Code": "43",
+        "Nom": "Gloomlight"
+    },
+    {
+        "Code": "44",
+        "Nom": "Chez Pierre"
+    },
+    {
+        "Code": "45",
+        "Nom": "Floating Iles"
+    },
+    {
+        "Code": "46",
+        "Nom": "Chez Raph"
+    },
+    {
+        "Code": "47",
+        "Nom": "Bridge City"
+    },
+    {
+        "Code": "15",
+        "Nom": "Avenue des monuments"
+    },
+    {
+        "Code": "51",
+        "Nom": "Porceville"
+    },
+    {
+        "Code": "50",
+        "Nom": "Outpost"
+    },
+    {
+        "Code": "49",
+        "Nom": "Suisse"
+    },
+    {
+        "Code": "48",
+        "Nom": "Chez Monokis"
+    },
+    {
+        "Code": "59",
+        "Nom": "La baie des bois"
+    },
+    {
+        "Code": "53",
+        "Nom": "Windenbourg central"
+    },
+    {
+        "Code": "57",
+        "Nom": "Lycée Magique George Pompidou"
+    },
+    {
+        "Code": "58",
+        "Nom": "HollyBoob"
+    },
+    {
+        "Code": "52",
+        "Nom": "INFP Windenbourg TER"
+    },
+    {
+        "Code": "54",
+        "Nom": "Centre commercial binaire"
+    },
+    {
+        "Code": "55",
+        "Nom": "Casino"
+    },
+    {
+        "Code": "56",
+        "Nom": "Ferme"
+    },
+    {
+        "Code": "60",
+        "Nom": "Musée Biomes"
+    },
+    {
+        "Code": "100",
+        "Nom": "non"
+    },
+    {
+        "Code": "100",
+        "Nom": "Château TGV"
+    },
+    {
+        "Code": "100",
+        "Nom": "Willow Creek"
+    },
+    {
+        "Code": "100",
+        "Nom": "Mer de Monstres"
+    },
+    {
+        "Code": "100",
+        "Nom": "Forêt Sud"
+    },
+    {
+        "Code": "100",
+        "Nom": "PM Japan Expo"
+    },
+    {
+        "Code": "100",
+        "Nom": "Mud Place"
+    }
+]
